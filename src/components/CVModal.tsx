@@ -47,8 +47,8 @@ export const CVModal: React.FC<CVModalProps> = ({ isOpen, onClose }) => {
             </button>
 
             <a
-              href="./Jessica_Resume_v3.pdf"
-              download="Jessica_Resume_v3.pdf"
+              href="./Jessica_Dangol_Resume.pdf"
+              download="Jessica_Dangol_Resume.pdf"
               className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-[#FEE282] hover:bg-[#FCD34D] text-xs font-semibold text-slate-900 transition-colors shadow-2xs"
             >
               <Download className="w-3.5 h-3.5" />

@@ -96,8 +96,8 @@ export const Navbar: React.FC<NavbarProps> = ({
         {/* Right: Download CV Action Button */}
         <div className="hidden sm:flex items-center gap-3 shrink-0">
           <a
-            href="./Jessica_Resume_v3.pdf"
-            download="Jessica_Resume_v3.pdf"
+            href="./Jessica_Dangol_Resume.pdf"
+            download="Jessica_Dangol_Resume.pdf"
             className="inline-flex items-center gap-2 px-6 py-2.5 rounded-full text-sm font-semibold text-slate-900 bg-[#FEE282] hover:bg-[#FCD34D] transition-all duration-200 shadow-xs hover:shadow-sm cursor-pointer active:scale-98"
           >
             <Download className="w-4 h-4" />
@@ -108,8 +108,8 @@ export const Navbar: React.FC<NavbarProps> = ({
         {/* Mobile Menu Hamburger */}
         <div className="flex md:hidden items-center gap-2">
           <a
-            href="./Jessica_Resume_v3.pdf"
-            download="Jessica_Resume_v3.pdf"
+            href="./Jessica_Dangol_Resume.pdf"
+            download="Jessica_Dangol_Resume.pdf"
             className="sm:hidden inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-semibold text-slate-900 bg-[#FEE282] hover:bg-[#FCD34D] transition-colors"
           >
             <Download className="w-3.5 h-3.5" />
@@ -144,8 +144,8 @@ export const Navbar: React.FC<NavbarProps> = ({
           ))}
           <div className="pt-2 border-t border-slate-100">
             <a
-              href="./Jessica_Resume_v3.pdf"
-              download="Jessica_Resume_v3.pdf"
+              href="./Jessica_Dangol_Resume.pdf"
+              download="Jessica_Dangol_Resume.pdf"
               onClick={() => setMobileMenuOpen(false)}
               className="w-full flex items-center justify-center gap-2 px-4 py-2.5 rounded-full text-sm font-semibold text-slate-900 bg-[#FEE282] hover:bg-[#FCD34D] transition-colors"
             >
